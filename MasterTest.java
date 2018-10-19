@@ -7,5 +7,6 @@
 public class MasterTest {
     public static void main(String[] args) {
         System.out.println("master: hello world!");
+        System.out.println("在bug分支中解决master的bug");
     }
 }
