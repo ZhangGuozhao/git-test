@@ -9,5 +9,6 @@ public class MasterTest {
         System.out.println("master: hello world!");
         System.out.println("在bug分支中解决master的bug111");
         System.out.println("bug2bug2");
+        System.out.println("双十一dev");
     }
 }
