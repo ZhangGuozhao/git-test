@@ -5,4 +5,7 @@ package rebaseTest;
  * Created on 2024-11-27
  */
 public class File1 {
+    public static void main(String[] args) {
+
+    }
 }
