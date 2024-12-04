@@ -11,6 +11,9 @@ public class Master {
         System.out.println("B3");
 
         System.out.println("master commit 3 amend");
+        System.out.println("master commit 4 amend");
+        System.out.println("master commit 5 amend");
+        System.out.println("master commit 6 amend");
 
     }
 }
