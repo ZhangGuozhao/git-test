@@ -9,5 +9,9 @@ public class Master {
         System.out.println("master");
         System.out.println("master rebase");
         System.out.println("B3");
+
+        System.out.("master commit amend");
+        System.out.println("master commit 3 amend");
+
     }
 }
