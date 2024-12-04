@@ -8,7 +8,7 @@ public class Master {
     public static void main(String[] args) {
         System.out.println("master");
         System.out.println("master rebase");
-        System.out.ci("B3");
+        System.out.println("B3");
 
         System.out.println("master commit 3 amend");
 
