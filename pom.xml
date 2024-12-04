@@ -19,6 +19,9 @@
     <dependencies>
 
     </dependencies>
+    <build>
+        <sourceDirectory>rebaseTest</sourceDirectory>
+    </build>
 
 
 </project>
